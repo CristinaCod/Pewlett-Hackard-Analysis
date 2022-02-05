@@ -12,8 +12,9 @@ o
 
 o	
 
-o	We see a lot of employees with multiple job titles signifying they have switched positions over the years.
+o	After the initial analysis we noticed there were multiple entires for the same employee. This was attributed to the fact that these employees changed positions during their time at Pewlett-Hackard and held multiple titles. However these copious amounts of extra data that could effect retirment counts. Therefore we ran a query to only account for each individual once. This can be seen below in a snipet of the "Unique Titles" table
 
+![unique_titles.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/Unique_titles.png)
 
 o	The two job titles that we’re seeing the largest retirement amounts in during this “silver tsunami” are in the Senior Engineer and Senior Staff positions with nearly 26,000 and 25,000 retirees each. The position we’re seeing the smallest number of retirees in are Managers with only 2. 
 ![retiring_titles.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/Retiring_titles.png)
