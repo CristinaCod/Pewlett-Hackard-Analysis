@@ -22,7 +22,7 @@ o	Again, we wanted to break this information down even further to determine whic
 
 ![retiring_titles.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/Retiring_titles.png)
 
-o	Lastly, Pewlett-Hackard has been operating smoothly for decades due to these dedicated employees they will soon be losing. The best way for the company to continue this success is to have the outgoing employees train the incoming ones. 
+o	Lastly, Pewlett-Hackard has been operating smoothly for decades due to these dedicated employees they will soon be losing. The best way for the company to continue this success is to have the outgoing employees train the incoming ones. The only problem is that after running an analysis on individuals eligible for the mentorship program it only yielded 1,549 results. 
 
 ## Summary
 ### Questions
