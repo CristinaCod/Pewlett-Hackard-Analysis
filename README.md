@@ -7,6 +7,10 @@ The purpose of this analysis is to assist Bobby, an HR analyst at Pewlett-Hackar
 Below you can see an ERD outlining the data from said csv files that we will be working with to conduct our analysis. 
 
 ![flow_chart.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/QuickDBD-export.png)
+
+The original analysis on retirement eligibility, prior to transforming the data, can be seen below for initial reference.
+
+![retirement_titles.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/Retirement_titles.png)
 ## Results
 o	
 
