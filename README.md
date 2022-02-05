@@ -3,12 +3,17 @@
 ## Overview
 ### Purpose
 
-
+![flow_chart.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/QuickDBD-export.png)
 ## Results
 o	
+
 o	
+
 o	We see a lot of employees with multiple job titles signifying they have switched positions over the years.
+
+
 o	The two job titles that we’re seeing the largest retirement amounts in during this “silver tsunami” are in the Senior Engineer and Senior Staff positions with nearly 26,000 and 25,000 retirees each. The position we’re seeing the smallest number of retirees in are Managers with only 2. 
+![retiring_titles.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/Retiring_titles.png)
 
 ## Summary
 ### Questions
