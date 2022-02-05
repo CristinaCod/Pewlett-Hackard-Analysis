@@ -2,6 +2,9 @@
 
 ## Overview
 ### Purpose
+The purpose of this analysis is to assist Bobby, an HR analyst at Pewlett-Hackard, in his task to perform employee research. As Pewlett-Hackard has been around for a very long time they are looking toward the future and anticipating a "silver tsunami" where all the baby-boomer employees will soon be retiring. As a company with thousands of employees, these positions will obviously need to be filled to ensure the survival and longevity of the company. This is where we come in. Based on given csv files we are assisting Bobby in building an employee database to determine which current employees are eligible for the retirement package and how many positions will then need to be filled.
+
+Below you can see an ERD outlining the data from said csv files that we will be working with to conduct our analysis. 
 
 ![flow_chart.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/QuickDBD-export.png)
 ## Results
