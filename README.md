@@ -23,7 +23,9 @@ Based on the analysis we found that 72,458 positions will need to be filled due 
 
 o	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?
 
-Based on the findings of the mentorship eligibility program, no, there are not enough retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees. As mentioned above there are 72,458 employees retiring and only 1,549 eligible for the mentorship program. This averages out to about 1 mentor for every 47 new employees which is simply just unrealistic and not feasible. 
+Based on the findings of the mentorship eligibility program, no, there are not enough retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees. As mentioned above there are 72,458 employees retiring and only 1,549 eligible for the mentorship program. This averages out to about 1 mentor for every 47 new employees which is simply just unrealistic and not feasible. A snipet of the mentorship eligibility table can be seen below.
+
+![Mentorship_eligibility.png](https://github.com/CristinaCod/Pewlett-Hackard-Analysis/blob/main/resources/Mentorship_eligibility.png)
 
 ### Follow-Up
 In response to the above findings of the analysis we can dive deeper create additional queries to assist Pewlett-Hackard even further in tackling their "silver tsunami." As we know nearly 72.5 thousand employees will be retiring. While hiring new employees is necesary they should also determine who is eleigible for a promotion into a higher-level senior position, based on experience and time spent with the company, to take over for the individuals leaving those positions.
